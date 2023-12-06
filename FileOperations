@@ -1,0 +1,11 @@
+### File Operations
+- Termux provides commands for navigating and manipulating files and directories.
+- `cd <directory>`: Change directory.
+- `ls`: List files and directories.
+- `pwd`: Print the current working directory.
+- `mkdir <directory>`: Create a new directory.
+- `touch <file>`: Create a new file.
+- `cp <source> <destination>`: Copy a file or directory.
+- `mv <source> <destination>`: Move/rename a file or directory.
+- `rm <file>`: Remove a file.
+- `rmdir <directory>`: Remove an empty directory.
