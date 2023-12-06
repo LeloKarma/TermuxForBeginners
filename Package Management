@@ -1,0 +1,8 @@
+### Package Management
+- Termux uses the `pkg` package manager 
+to install and manage software packages.
+- To update the package lists, run: `pkg update`
+- To install a package, run: `pkg install <package_name>`
+- To search for a package, run: `pkg search <search_term>`
+- To upgrade all installed packages, run: `pkg upgrade`
+- To remove a package, run: `pkg uninstall <package_name>`
