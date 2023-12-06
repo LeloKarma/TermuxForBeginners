@@ -1,0 +1,7 @@
+### Networking
+- Termux allows you to perform various networking tasks.
+- `ping <host>`: Send ICMP echo requests to a specified host.
+- `ifconfig`: Display network interface information.
+- `wget <URL>`: Download a file from the web.
+- `curl <URL>`: Make HTTP requests and display the response.
+- `ssh <user>@<host>`: Connect to a remote server using SSH.
